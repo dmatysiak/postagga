@@ -1,4 +1,4 @@
-(defproject postagga "0.3.0"
+(defproject postagga "0.3.1"
   :description "A Library to parse natural language in pure Clojure and ClojureScript"
 
   :url "http://fekr.tech/postagga"
@@ -8,5 +8,5 @@
 
   :scm {:name "git"
         :url "https://github.com/turbopape/postagga.git"}
-  
+
   :dependencies [[org.clojure/clojure "1.8.0"]])
